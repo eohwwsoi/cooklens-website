@@ -26,13 +26,14 @@ Designed for confident home recreation of restaurant-style dishes.
 
 ## 📁 Project Structure
 
+```
 /
-├── index.html # Landing page
-├── privacy.html # Privacy Policy
-├── terms.html # Terms & Conditions
-├── styles.css # Shared styles
-└── favicon.ico # Site icon (optional)
-
+├── index.html        # Landing page
+├── privacy.html      # Privacy Policy
+├── terms.html        # Terms & Conditions
+├── styles.css        # Shared styles
+└── favicon.ico       # Site icon (optional)
+```
 This is a fully static website (HTML + CSS only).
 
 No frameworks.
