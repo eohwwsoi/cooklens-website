@@ -33,7 +33,6 @@ Designed for confident home recreation of restaurant-style dishes.
 ├── styles.css # Shared styles
 └── favicon.ico # Site icon (optional)
 
-
 This is a fully static website (HTML + CSS only).
 
 No frameworks.
